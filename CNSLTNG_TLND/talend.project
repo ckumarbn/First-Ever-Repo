@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_9K6cEYYkEeq8vofiflwQZg" label="CNSLTNG_TLND" description="Dev" language="java" technicalLabel="CNSLTNG_TLND" creationDate="2020-04-24T17:07:40.334+0530" author="_9K6cEoYkEeq8vofiflwQZg" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;http://github.com/ckumarbn/First-Ever-Repo&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+  <TalendProperties:Project xmi:id="_9K6cEYYkEeq8vofiflwQZg" label="CNSLTNG_TLND" description="Dev" language="java" technicalLabel="CNSLTNG_TLND" creationDate="2020-04-24T17:07:40.334+0530" author="_9K6cEoYkEeq8vofiflwQZg" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;http://github.com/ckumarbn/First-Ever-Repo&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_9iLskIYkEeq8vofiflwQZg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_9K6cEoYkEeq8vofiflwQZg" login="ckumarbn@talend.com" firstName="chandan" lastName="kumar" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_CWDrQIYlEeq8vofiflwQZg" login="drmadhusudan@talend.com" firstName="Madhu" lastName="Sudan" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
